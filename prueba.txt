@@ -1,0 +1,2 @@
+#en esta prueba entenderemos la articulacion con GitHub#
+prueba_inicial="esto es una prueba"
